@@ -7,6 +7,7 @@
 // del it
 
 #import <UIKit/UIKit.h>
+#import "MainViewController.h"
 
 @interface MainAppDelegate : UIResponder <UIApplicationDelegate>
 
